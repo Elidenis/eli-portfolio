@@ -1,0 +1,145 @@
+body{
+
+background-color: #c5cddb;
+font-family: sans-serif;
+
+}
+#branding  ul{
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+
+ #branding ul li{
+
+   float: left;
+   width:200px;
+   height:40px;
+   background-color: black;
+   text-align:center;
+   line-height: 40px;
+   margin-right: 5px;
+   font-size: 20px;
+
+
+}
+
+#branding  ul li a{
+
+   text-decoration: none;
+   color: #fff;
+   display: block;
+
+
+}
+
+#branding  ul li a:hover{
+
+   background-color: green;
+
+
+}
+
+#branding  ul li ul li{
+
+display: none;
+}
+#branding  ul li:hover ul li{
+
+display: block;
+}
+.container{
+
+width:80%;
+margin: auto;
+overflow: hidden;
+}
+
+#showcase{
+      background-image: url('file:///home/denis/Documents/moringa-school-projects/portfolio-landing/image/background.jpg');
+      margin-top: 4px;
+      height: 500px;
+      color: #fff;
+
+}
+
+#showcase h1{
+         text-align: center;
+         margin-top: 100px;
+         margin-bottom: 12px;
+         font-size: 50px;
+
+
+
+}
+
+#showcase h1{
+font-size:25px;
+
+}
+
+#shows .show{
+
+float: right;
+text-align: center;
+width: 30%;
+padding: 10px;
+}
+
+
+
+   #hood .hoo{
+
+float: left;
+text-align: center;
+width: 50%;
+padding: 10px;
+border:5px solid #876a81;
+border-radius: 10px;
+}
+
+ #hood .ho{
+
+float: right;
+text-align: center;
+width: 40%;
+padding: 10px;
+border:5px solid #876a81;
+border-radius: 10px;
+}
+
+
+.footer{
+
+    background-color: black;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 20px;
+    color:#fff;
+
+
+
+
+}
+
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+p {
+  color: black;
+}
+h2 {
+  color:  #50627f;
+}
+h3 {
+  color: #50627f;
+}
+h4 {
+  color: #577206;
+}
+h1 {
+  color: #577206;
+}
