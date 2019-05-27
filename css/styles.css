@@ -24,31 +24,6 @@ list-style: none;
 
 
 }
-
-#branding  ul li a{
-
-   text-decoration: none;
-   color: #fff;
-   display: block;
-
-
-}
-
-#branding  ul li a:hover{
-
-   background-color: green;
-
-
-}
-
-#branding  ul li ul li{
-
-display: none;
-}
-#branding  ul li:hover ul li{
-
-display: block;
-}
 .container{
 
 width:80%;
