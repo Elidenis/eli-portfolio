@@ -89,7 +89,15 @@ padding: 10px;
 
 
 
+   #hood .hoo{
 
+float: left;
+text-align: center;
+width: 50%;
+padding: 10px;
+border:5px solid #876a81;
+border-radius: 10px;
+}
 
  #hood .ho{
 
